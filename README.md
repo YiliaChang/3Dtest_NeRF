@@ -1,4 +1,4 @@
-# 3D重建之NeRF
+# PRIS-CV: 3D重建测试之NeRF
 阅读论文《[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)》，思考并回答以下问题：
 
 ## 一、基础概念与术语解释
