@@ -1,1 +1,0 @@
-# 3Dtest_NeRF
